@@ -1,0 +1,106 @@
+<html>
+<head>
+    <title>Olshop Fahdeli<title>
+</head>
+<body>
+    <table border="1" width="900px" align="center">
+        <tr>
+            <td colspan="2" height="100px" bgcolor="#b2e6f8" >
+                <table>
+                    <tr>
+                        <td>Olshop Fahdeli</d>
+                        <td width="150px" align="center"><a href="home.html">Home</a></td>
+                        <td width="100px" align="center"><a href="woman.html">Dewasa</a></td>
+                        <td width="100px" align="center"><a href="children.html">Anak-anak</a></td>
+                        <td width="400px" align="right"valign="top"h4 width="20px" align="right"><cart>{1}</a></td>
+                        <img src="cart.png" alt="search" height="20px" width="20px" align="right" bgcolor="read">
+                        <img src="R.png" alt="cart" height="20px" align= "right">
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td height="400px" width="600px"bgcolor=#005454 valign="top">
+                <h1 align="center"> Olshop Fahdeli </h1>
+                <hr>
+            <table>
+                <hr>
+                    <td width="375px"h4>Barang</td>
+                    <td h4 width="170px" >Harga</td>
+                    <td h4> Kualitas </td>
+                </tr>
+            </table>
+<hr>
+            <table>
+                <tr>
+                    <td align="right" h4 width="425">Rp.50 000</td> 
+                    <td align="right"width="200px"><input type="number"id="quantity">
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <img src="celana laki.jpg" alt="baju" height="160px" width="160px" bgcollor="#005">
+                    <hr>
+                    <td align="right" width="250px"bgcolor="top" valign="top">
+                </tr>
+            </table>
+                <td height=" "300px"bgcolor="#005" valign="top">
+            <table>
+                <tr>
+                    <h3>Ringkasan{1 item} </h3>
+                    <td>Subtotal </td>
+                    <td width="175px" align="right">Rp.170.000</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td pengiriman</td>
+                    <td width="123llpx" align="right">-</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td>Pengiriman</td>
+                    <td width="123llpx" align="right>-</td>
+                </tr>
+            </table>
+                <td>Pajak<td/>
+                <td width="153px" align="riht">$170.000</td>
+            </table>
+                <hr>
+            <table>
+                <hr>
+                    <td>Total</td>
+                    <td width="200px align="right">$170.000</td>
+                </tr>
+            </table>
+                    <hr><button type="button" class="btn btn-primary">Pesan</button>
+            </td>
+        <table border="1" width="800px" align="center">
+            <tr>
+            </td> colspan="3" height="200px" bgcolor="#000000">
+            <table>
+                        <tr>
+                            <td>>Olshop Fahdeli</td>
+                            <td align="right" width="100px" ><a href="home.html">Home</a></td>
+                            <td align="right" width="100px" ><a href="woman.html">Dewasa</a></td>
+                            <td align="right" width="100px" ><a href="children.html">Anak-anak</a></td>
+                            <td align="right" width="455px">stay in touch join our Newsletter
+                            <hr> <button type="button" class="btn btn-primary" >fahdelinugroho4@gmail.com</button>
+
+
+                        </tr>
+
+                    </table>
+            </td>
+        </tr>
+    </table>
+
+</body
+</html>
+
+                            
+
+
+
+
