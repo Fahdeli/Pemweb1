@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Pemesanan Pizza</title>
+</head>
+<body>
+    <td align="center" border="1">
+        <tr>
+            <td>
+                <form>
+                    <h1 align="center"> THANK YOU</h1>
+                    <hr width="500" style="2">
+                    <p>
+                        Thank you for ondering from black goose bistro.
+                        the have we have received the following information about your order
+                </p>
+                your infomation</p>
+                </br>
+                <td>name</td>
+                <td>:</td>
+                <td>Fahdeli Nugroho</td>
+                <br>
+                <td>Address</td>
+                <td>:</td>
+                <td>Manggarai Selatan VI</td>
+                <br>
+                <td>Telephone:</td>
+                <td>:</td> 
+                <td>081288242984</td>  
+                <br>
+                <td>email</td>
+                <td>:</td>
+                <td>fahdelinugroho4@mail.com</td>
+                </p>
+                Your Pizza:
+                </p>
+                    <td>crust</td>
+                    <td>:</td>
+                    <td>white</td>
+                    <br>
+                    <td>toppings</td>
+                    <td>:</td>
+                    <td>res sauce, mozzarella, pepperoni, mushrooms</td>
+                    <br>
+                    <td>number</td>
+                    <td>:</td>
+                    <td>1</td>
+                </br>
+              </form>
+          </td>
+        </tr>
+    </table>
+</body>
+</html>
