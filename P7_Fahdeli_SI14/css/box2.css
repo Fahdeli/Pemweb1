@@ -1,0 +1,54 @@
+div{
+    width: 200px;
+    height: 100px;
+    margin: auto;
+    margin-left: 20px;
+    border: 2px solid;
+}
+
+.box1{
+    background-color: #AEDD94;
+    width: 1300px;
+    height: 150px;
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+.box2{
+    background-color: #F4EB49;
+    width: 220px;
+    height: 220px;
+    display: inline-flex;
+}
+
+.box3{
+    background-color: #FF6624;
+    float: right;
+    width: 1044px;
+    height: 220px;
+    float: right;
+    margin-left: 2em;
+}
+
+.box4{
+    background-color: #F4EB49;
+    width: 220px;
+    height: 170px;
+    display: inline-flex;
+}
+
+.box5{
+    background-color: #4DD7FA;
+    width: 1044px;
+    height: 170px;
+    margin-left: 2em;
+}
+
+.bag1{
+    display: inline-flex;
+}
+
+.bag2{
+    display: inline-flex;
+    margin-top: 2em;
+}
